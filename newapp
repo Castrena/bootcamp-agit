@@ -1,5 +1,9 @@
 newapp{
 
+  checkout(){
+    you can now checkout
+  }
+
   register(){
    you can register now
   }
