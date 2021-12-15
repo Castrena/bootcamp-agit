@@ -11,5 +11,9 @@ newapp{
   login(){
    you can login now
   }
+  
+  loginBySocmed(){
+    you can login by socmed now
+  }
 
 }
