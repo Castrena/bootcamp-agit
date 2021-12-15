@@ -1,7 +1,15 @@
 newapp{
 
-checkout(){
-you can now checkout
-}
+  checkout(){
+    you can now checkout
+  }
+
+  register(){
+   you can register now
+  }
+
+  login(){
+   you can login now
+  }
 
 }
