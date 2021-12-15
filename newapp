@@ -12,8 +12,12 @@ newapp{
    you can login now
   }
   
+  loginBySocmed(){
+    you can login by socmed now
+  }
+  
   otp(){
     you can now generate otp
   }
-
+  
 }
