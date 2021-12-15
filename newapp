@@ -1,7 +1,11 @@
 newapp{
 
-register(){
-you can register now
-}
+  register(){
+   you can register now
+  }
+
+  login(){
+   you can login now
+  }
 
 }
