@@ -11,5 +11,9 @@ newapp{
   login(){
    you can login now
   }
+  
+  otp(){
+    you can now generate otp
+  }
 
 }
